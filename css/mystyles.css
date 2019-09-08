@@ -27,6 +27,9 @@
 #projectInfo .bg-secundary{
   /*background: rgba(28,153,176,0.7) !important;*/
 }
+#projectInfo a{
+  color: #000 !important;
+}
 
 .imparColor{
   color:#f26f26;
